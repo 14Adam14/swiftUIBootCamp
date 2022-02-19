@@ -9,7 +9,7 @@ struct ContentView: View {
             .foregroundColor(Color.pink)
             .padding()
             .font(.title)
-    
+       
         
     }
     

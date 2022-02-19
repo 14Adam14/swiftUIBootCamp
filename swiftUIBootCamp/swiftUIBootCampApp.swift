@@ -12,6 +12,7 @@ struct swiftUIBootCampApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+           
         }
     }
 }

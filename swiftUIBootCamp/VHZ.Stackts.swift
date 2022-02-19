@@ -90,7 +90,6 @@ struct VHZ_Stackts: View {
         }
 
         
-        
         Text("1")
             .font(.title)
             .foregroundColor(.white)
