@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		100730AC27C2220700AFAC23 /* LazyVHGrid.GridItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */; };
 		102E930327BF7C9100876725 /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 102E930227BF7C9100876725 /* Frame.swift */; };
 		103354A227BF3C7200F902A2 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354A127BF3C7200F902A2 /* Colors.swift */; };
 		103354A427BF51A500F902A2 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354A327BF51A500F902A2 /* Gradients.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVHGrid.GridItems.swift; sourceTree = "<group>"; };
 		102E930227BF7C9100876725 /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
 		103354A127BF3C7200F902A2 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		103354A327BF51A500F902A2 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				10F0688D27C0ADAD00E13FA0 /* Inits.Enums.swift */,
 				1074EBD727C1F595000A96D8 /* ForEach.loops.swift */,
 				1074EBD927C20A00000A96D8 /* sScrollVIew.swift */,
+				100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -179,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				100730AC27C2220700AFAC23 /* LazyVHGrid.GridItems.swift in Sources */,
 				102E930327BF7C9100876725 /* Frame.swift in Sources */,
 				105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */,
 				10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */,
