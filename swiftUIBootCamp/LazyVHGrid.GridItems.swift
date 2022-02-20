@@ -12,7 +12,6 @@ struct LazyVHGrid_GridItems: View {
         GridItem(.flexible(), spacing: 6, alignment: nil),
         GridItem(.flexible(), spacing: 6, alignment: nil),
         GridItem(.flexible(), spacing: 6, alignment: nil)
-
     ]
     
     
