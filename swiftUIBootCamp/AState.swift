@@ -6,17 +6,17 @@ struct AState: View {
     
     
     
+   @State var backgroundColor: Color = Color.green
+    
+    
+    
     var body: some View {
-     
-        
-        
-        
-        
-        
         
         ZStack {
             //background
-            Color.red
+            
+            
+            backgroundColor
                 .ignoresSafeArea(.all)
             
             
@@ -26,20 +26,23 @@ struct AState: View {
             //content
             VStack(spacing: 20) {
                 Text("title")
+                    .font(.title)
                 Text("Count: 1")
-            
-            
-            HStack(spacing: 20) {
-                Button("button1") {
-                    //
-                }
+                    .font(.headline)
+                    .underline()
                 
-                Button("button2") {
-                    //
+                HStack(spacing: 20) {
+                    Button("button1") {
+                        backgroundColor = .black
+                    }
+                    
+                    Button("button2") {
+                        backgroundColor = .mint
+                    }
                 }
-            }
             }
         }
+        .foregroundColor(.white)
     }
     
     
