@@ -18,6 +18,7 @@
 		105D4E6827C0604D00658DCD /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6727C0604D00658DCD /* Padding.swift */; };
 		1074EBD827C1F595000A96D8 /* ForEach.loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD727C1F595000A96D8 /* ForEach.loops.swift */; };
 		1074EBDA27C20A00000A96D8 /* sScrollVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD927C20A00000A96D8 /* sScrollVIew.swift */; };
+		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
 		10DE66B427BF177A004BBB1A /* swiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */; };
 		10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B527BF177A004BBB1A /* ContentView.swift */; };
 		10DE66B827BF177B004BBB1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10DE66B727BF177B004BBB1A /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 		105D4E6727C0604D00658DCD /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		1074EBD727C1F595000A96D8 /* ForEach.loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.loops.swift; sourceTree = "<group>"; };
 		1074EBD927C20A00000A96D8 /* sScrollVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sScrollVIew.swift; sourceTree = "<group>"; };
+		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
 		10DE66B027BF177A004BBB1A /* swiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		10DE66B527BF177A004BBB1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */,
 				100730AF27C2363900AFAC23 /* SaveArea.swift */,
 				10FF019527C2EE430065E52C /* Buttons.swift */,
+				108C9FAA27C317F4001136C2 /* AState.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -201,6 +204,7 @@
 				103354AE27BF67C900F902A2 /* ImageS.swift in Sources */,
 				1074EBDA27C20A00000A96D8 /* sScrollVIew.swift in Sources */,
 				10F0688C27C0A40200E13FA0 /* SpacerS.swift in Sources */,
+				108C9FAB27C317F4001136C2 /* AState.swift in Sources */,
 				10DE66C227BF1BEA004BBB1A /* Text.swift in Sources */,
 				103354A427BF51A500F902A2 /* Gradients.swift in Sources */,
 				1074EBD827C1F595000A96D8 /* ForEach.loops.swift in Sources */,
