@@ -19,6 +19,7 @@
 		1074EBD827C1F595000A96D8 /* ForEach.loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD727C1F595000A96D8 /* ForEach.loops.swift */; };
 		1074EBDA27C20A00000A96D8 /* sScrollVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD927C20A00000A96D8 /* sScrollVIew.swift */; };
 		107D842727C34C55008BE955 /* ExtractFuncSubv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842627C34C55008BE955 /* ExtractFuncSubv.swift */; };
+		107D842927C35F59008BE955 /* ExctractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842827C35F59008BE955 /* ExctractSubviews.swift */; };
 		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
 		10DE66B427BF177A004BBB1A /* swiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */; };
 		10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B527BF177A004BBB1A /* ContentView.swift */; };
@@ -45,6 +46,7 @@
 		1074EBD727C1F595000A96D8 /* ForEach.loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.loops.swift; sourceTree = "<group>"; };
 		1074EBD927C20A00000A96D8 /* sScrollVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sScrollVIew.swift; sourceTree = "<group>"; };
 		107D842627C34C55008BE955 /* ExtractFuncSubv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractFuncSubv.swift; sourceTree = "<group>"; };
+		107D842827C35F59008BE955 /* ExctractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExctractSubviews.swift; sourceTree = "<group>"; };
 		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
 		10DE66B027BF177A004BBB1A /* swiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUIBootCampApp.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				10FF019527C2EE430065E52C /* Buttons.swift */,
 				108C9FAA27C317F4001136C2 /* AState.swift */,
 				107D842627C34C55008BE955 /* ExtractFuncSubv.swift */,
+				107D842827C35F59008BE955 /* ExctractSubviews.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -201,6 +204,7 @@
 				100730B027C2363900AFAC23 /* SaveArea.swift in Sources */,
 				10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */,
 				103354A627BF5B6200F902A2 /* Icons.swift in Sources */,
+				107D842927C35F59008BE955 /* ExctractSubviews.swift in Sources */,
 				103354A227BF3C7200F902A2 /* Colors.swift in Sources */,
 				10DE66C427BF28A2004BBB1A /* Shapes.swift in Sources */,
 				10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */,
