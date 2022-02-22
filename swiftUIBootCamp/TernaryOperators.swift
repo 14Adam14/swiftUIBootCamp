@@ -14,15 +14,21 @@ struct TernaryOperators: View {
             Button("button: \(isStartingState.description)") {
                 isStartingState.toggle()
             }
-            if isStartingState {
-                RoundedRectangle(cornerRadius: 25)
-                    .fill(Color.red)
-                    .frame(width: 200, height: 100)
-            } else {
-                RoundedRectangle(cornerRadius: 25)
-                    .fill(Color.blue)
-                    .frame(width: 200, height: 100)
-            }
+       
+            Text(isStartingState ? "start le" : "fin sta")
+          
+            RoundedRectangle(cornerRadius: isStartingState ? 25 : 0)
+                .fill(isStartingState ? Color.red : Color.blue)
+            // if isStartingState true to Color.red  inache  Color.blue
+            
+            
+                    .frame(
+                        
+                        width: isStartingState ? 200 : 50,
+                        height: isStartingState ? 400 : 50
+   
+                    )
+            
            
             
             Spacer()
