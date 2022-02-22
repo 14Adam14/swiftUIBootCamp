@@ -24,6 +24,7 @@
 		107D842B27C36838008BE955 /* bindingProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842A27C36838008BE955 /* bindingProperty.swift */; };
 		107D842D27C38664008BE955 /* If.Else.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842C27C38664008BE955 /* If.Else.swift */; };
 		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
+		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
 		10DE66B427BF177A004BBB1A /* swiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */; };
 		10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B527BF177A004BBB1A /* ContentView.swift */; };
 		10DE66B827BF177B004BBB1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10DE66B727BF177B004BBB1A /* Assets.xcassets */; };
@@ -54,6 +55,7 @@
 		107D842A27C36838008BE955 /* bindingProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bindingProperty.swift; sourceTree = "<group>"; };
 		107D842C27C38664008BE955 /* If.Else.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = If.Else.swift; sourceTree = "<group>"; };
 		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
+		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
 		10DE66B027BF177A004BBB1A /* swiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		10DE66B527BF177A004BBB1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				107D842A27C36838008BE955 /* bindingProperty.swift */,
 				107D842C27C38664008BE955 /* If.Else.swift */,
 				106F1F8C27C49AE000A60771 /* TernaryOperators.swift */,
+				10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -231,6 +234,7 @@
 				10FF019627C2EE430065E52C /* Buttons.swift in Sources */,
 				105D4E6827C0604D00658DCD /* Padding.swift in Sources */,
 				10F0688E27C0ADAD00E13FA0 /* Inits.Enums.swift in Sources */,
+				10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
