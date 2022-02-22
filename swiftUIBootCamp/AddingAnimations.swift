@@ -29,8 +29,10 @@ struct AddingAnimations: View {
                        height: isAnimated ? 100 : 300)
                 .rotationEffect(Angle(degrees: isAnimated ? 360 : 0 ))
                 .offset(y: isAnimated ? 300 : 0) // smeshenie
-                .animation(.default
-                            .repeatForever(autoreverses: true)) // mozhno i tak animirovat bez togo chto v knopke no chashe i lyche isp kak v knopke
+              //.animation(.default
+                          //  .repeatForever(autoreverses: true))
+            
+            // mozhno i tak animirovat bez togo chto v knopke no chashe i lyche isp kak v knopke
             
             Spacer()
         }
