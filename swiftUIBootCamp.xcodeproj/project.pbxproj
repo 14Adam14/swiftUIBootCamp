@@ -16,6 +16,7 @@
 		103354AE27BF67C900F902A2 /* ImageS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354AD27BF67C900F902A2 /* ImageS.swift */; };
 		105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6527C0456900658DCD /* VHZ.Stackts.swift */; };
 		105D4E6827C0604D00658DCD /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6727C0604D00658DCD /* Padding.swift */; };
+		106F1F8D27C49AE000A60771 /* TernaryOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106F1F8C27C49AE000A60771 /* TernaryOperators.swift */; };
 		1074EBD827C1F595000A96D8 /* ForEach.loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD727C1F595000A96D8 /* ForEach.loops.swift */; };
 		1074EBDA27C20A00000A96D8 /* sScrollVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1074EBD927C20A00000A96D8 /* sScrollVIew.swift */; };
 		107D842727C34C55008BE955 /* ExtractFuncSubv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842627C34C55008BE955 /* ExtractFuncSubv.swift */; };
@@ -45,6 +46,7 @@
 		103354AD27BF67C900F902A2 /* ImageS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageS.swift; sourceTree = "<group>"; };
 		105D4E6527C0456900658DCD /* VHZ.Stackts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VHZ.Stackts.swift; sourceTree = "<group>"; };
 		105D4E6727C0604D00658DCD /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
+		106F1F8C27C49AE000A60771 /* TernaryOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperators.swift; sourceTree = "<group>"; };
 		1074EBD727C1F595000A96D8 /* ForEach.loops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEach.loops.swift; sourceTree = "<group>"; };
 		1074EBD927C20A00000A96D8 /* sScrollVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sScrollVIew.swift; sourceTree = "<group>"; };
 		107D842627C34C55008BE955 /* ExtractFuncSubv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractFuncSubv.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				107D842827C35F59008BE955 /* ExctractSubviews.swift */,
 				107D842A27C36838008BE955 /* bindingProperty.swift */,
 				107D842C27C38664008BE955 /* If.Else.swift */,
+				106F1F8C27C49AE000A60771 /* TernaryOperators.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -222,6 +225,7 @@
 				10F0688C27C0A40200E13FA0 /* SpacerS.swift in Sources */,
 				108C9FAB27C317F4001136C2 /* AState.swift in Sources */,
 				10DE66C227BF1BEA004BBB1A /* Text.swift in Sources */,
+				106F1F8D27C49AE000A60771 /* TernaryOperators.swift in Sources */,
 				103354A427BF51A500F902A2 /* Gradients.swift in Sources */,
 				1074EBD827C1F595000A96D8 /* ForEach.loops.swift in Sources */,
 				10FF019627C2EE430065E52C /* Buttons.swift in Sources */,
