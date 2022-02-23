@@ -34,6 +34,7 @@
 		10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E5E4DF27C01CC20053DC26 /* Background.Overlay.swift */; };
 		10F0688C27C0A40200E13FA0 /* SpacerS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F0688B27C0A40200E13FA0 /* SpacerS.swift */; };
 		10F0688E27C0ADAD00E13FA0 /* Inits.Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F0688D27C0ADAD00E13FA0 /* Inits.Enums.swift */; };
+		10F7872127C51C6300D1A6FE /* AnimationCurves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7872027C51C6300D1A6FE /* AnimationCurves.swift */; };
 		10FF019627C2EE430065E52C /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FF019527C2EE430065E52C /* Buttons.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		10E5E4DF27C01CC20053DC26 /* Background.Overlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.Overlay.swift; sourceTree = "<group>"; };
 		10F0688B27C0A40200E13FA0 /* SpacerS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerS.swift; sourceTree = "<group>"; };
 		10F0688D27C0ADAD00E13FA0 /* Inits.Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inits.Enums.swift; sourceTree = "<group>"; };
+		10F7872027C51C6300D1A6FE /* AnimationCurves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurves.swift; sourceTree = "<group>"; };
 		10FF019527C2EE430065E52C /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -125,6 +127,7 @@
 				107D842C27C38664008BE955 /* If.Else.swift */,
 				106F1F8C27C49AE000A60771 /* TernaryOperators.swift */,
 				10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */,
+				10F7872027C51C6300D1A6FE /* AnimationCurves.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				100730AC27C2220700AFAC23 /* LazyVHGrid.GridItems.swift in Sources */,
+				10F7872127C51C6300D1A6FE /* AnimationCurves.swift in Sources */,
 				102E930327BF7C9100876725 /* Frame.swift in Sources */,
 				105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */,
 				107D842727C34C55008BE955 /* ExtractFuncSubv.swift in Sources */,

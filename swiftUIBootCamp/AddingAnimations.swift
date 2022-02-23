@@ -34,6 +34,12 @@ struct AddingAnimations: View {
             
             // mozhno i tak animirovat bez togo chto v knopke no chashe i lyche isp kak v knopke
             
+//             v sled bloke modern metod napisania etogo  prim - .animation(
+//                .easeInOut(duration: 1)
+//                    .repeatForever(autoreverses: false),
+//                value: animationAmount
+//            )
+            
             Spacer()
         }
     }
