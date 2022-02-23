@@ -31,7 +31,7 @@ struct Transition: View {
                     insertion: .move(edge: .bottom),
                     removal: AnyTransition.opacity.animation(.easeInOut)
                 ))
-                .animation(.easeInOut)
+                .animation(Animation.easeInOut, value: showView)
                 
               //.transition(AnyTransition.scale.animation(.easeInOut))
               //.transition(AnyTransition.opacity.animation(.easeInOut))

@@ -25,6 +25,7 @@
 		107D842D27C38664008BE955 /* If.Else.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842C27C38664008BE955 /* If.Else.swift */; };
 		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
 		10BD330D27C5DDCA00B9FFA1 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330C27C5DDCA00B9FFA1 /* Transition.swift */; };
+		10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */; };
 		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
 		10DE66B427BF177A004BBB1A /* swiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */; };
 		10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B527BF177A004BBB1A /* ContentView.swift */; };
@@ -58,6 +59,7 @@
 		107D842C27C38664008BE955 /* If.Else.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = If.Else.swift; sourceTree = "<group>"; };
 		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
 		10BD330C27C5DDCA00B9FFA1 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
+		10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpSheets.FullScreenCovers.swift; sourceTree = "<group>"; };
 		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
 		10DE66B027BF177A004BBB1A /* swiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUIBootCampApp.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		10DE66A727BF177A004BBB1A = {
 			isa = PBXGroup;
 			children = (
+				10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */,
 				10DE66B227BF177A004BBB1A /* swiftUIBootCamp */,
 				10DE66B127BF177A004BBB1A /* Products */,
 			);
@@ -223,6 +226,7 @@
 				100730B027C2363900AFAC23 /* SaveArea.swift in Sources */,
 				10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */,
 				107D842D27C38664008BE955 /* If.Else.swift in Sources */,
+				10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */,
 				103354A627BF5B6200F902A2 /* Icons.swift in Sources */,
 				107D842927C35F59008BE955 /* ExctractSubviews.swift in Sources */,
 				103354A227BF3C7200F902A2 /* Colors.swift in Sources */,
