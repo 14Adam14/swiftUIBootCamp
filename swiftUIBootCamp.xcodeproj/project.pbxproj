@@ -89,7 +89,6 @@
 		10DE66A727BF177A004BBB1A = {
 			isa = PBXGroup;
 			children = (
-				10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */,
 				10DE66B227BF177A004BBB1A /* swiftUIBootCamp */,
 				10DE66B127BF177A004BBB1A /* Products */,
 			);
@@ -134,6 +133,7 @@
 				10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */,
 				10F7872027C51C6300D1A6FE /* AnimationCurves.swift */,
 				10BD330C27C5DDCA00B9FFA1 /* Transition.swift */,
+				10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
