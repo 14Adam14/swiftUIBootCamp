@@ -25,6 +25,7 @@
 		107D842B27C36838008BE955 /* bindingProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842A27C36838008BE955 /* bindingProperty.swift */; };
 		107D842D27C38664008BE955 /* If.Else.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107D842C27C38664008BE955 /* If.Else.swift */; };
 		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
+		109292AF27C9F64C007CD963 /* NavigatiomView.Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */; };
 		10BD330D27C5DDCA00B9FFA1 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330C27C5DDCA00B9FFA1 /* Transition.swift */; };
 		10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */; };
 		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
@@ -60,6 +61,7 @@
 		107D842A27C36838008BE955 /* bindingProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bindingProperty.swift; sourceTree = "<group>"; };
 		107D842C27C38664008BE955 /* If.Else.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = If.Else.swift; sourceTree = "<group>"; };
 		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
+		109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatiomView.Link.swift; sourceTree = "<group>"; };
 		10BD330C27C5DDCA00B9FFA1 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpSheets.FullScreenCovers.swift; sourceTree = "<group>"; };
 		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				10BD330C27C5DDCA00B9FFA1 /* Transition.swift */,
 				10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */,
 				1025E18D27C72897001AD6EA /* SheetsTransitionPopOver.swift */,
+				109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -225,6 +228,7 @@
 				10F7872127C51C6300D1A6FE /* AnimationCurves.swift in Sources */,
 				102E930327BF7C9100876725 /* Frame.swift in Sources */,
 				105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */,
+				109292AF27C9F64C007CD963 /* NavigatiomView.Link.swift in Sources */,
 				107D842727C34C55008BE955 /* ExtractFuncSubv.swift in Sources */,
 				100730B027C2363900AFAC23 /* SaveArea.swift in Sources */,
 				10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */,
