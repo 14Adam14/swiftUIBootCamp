@@ -29,12 +29,12 @@ struct ExctractSubviews: View {
                 MyItem(title: "hhhiivfd", count: 11, color: .green)
             }
         }
+    
+    
         
     }
     
     
-
-
 
 
 

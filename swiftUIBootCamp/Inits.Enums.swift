@@ -50,8 +50,6 @@ struct Inits_Enums: View {
 
 
 
-
-
 struct Inits_Enums_Previews: PreviewProvider {
     static var previews: some View {
         HStack {

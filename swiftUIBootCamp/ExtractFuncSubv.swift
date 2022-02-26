@@ -8,7 +8,7 @@ struct ExtractFuncSubv: View {
     
     
     var body: some View {
-       
+        
         
         
         
@@ -17,15 +17,16 @@ struct ExtractFuncSubv: View {
             backgroundColor
                 .edgesIgnoringSafeArea(.all)
             
- 
-           //content
+            
+            //content
             contentLayer
-
+            
         }
     }
-   
     
     
+    
+ 
     var contentLayer: some View {
         VStack {
             Text("title")
@@ -40,18 +41,16 @@ struct ExtractFuncSubv: View {
                     .padding()
                     .background(Color.black)
                     .cornerRadius(10)
-                  
             }
-
-            
         }
     }
-    
-    
-    
+
     func buttPess() {
         backgroundColor = .yellow
     }
+    
+    
+    
     
 }
 
