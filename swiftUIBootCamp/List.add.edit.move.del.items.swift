@@ -27,13 +27,23 @@ struct List_add_edit_move_del_items: View {
                 ) {
                     ForEach(fruits, id: \.self) { fruit in
                         Text(fruit.capitalized)
+                            .font(.caption)
+                            .foregroundColor(.white)
+                            .padding(.vertical)
+//                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+//                            .background(Color.pink)
                     }
                     .onDelete(perform: delete)
                     .onMove(perform: move)
+                    .listRowBackground(Color.blue)
                 }
                 
                 
-                Section(header: Text("Vegies")) {
+                Section(
+                    header:
+                        Text("Vegies")
+                        .foregroundColor(.green)
+                ) {
                     ForEach(veggies, id: \.self) { veggies in
                         Text(veggies.capitalized)
                     }
