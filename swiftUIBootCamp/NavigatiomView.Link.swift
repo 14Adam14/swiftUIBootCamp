@@ -1,6 +1,9 @@
 
 import SwiftUI
 
+
+// праввило - 1 навегейшн вью на 1 вью не больше (тоесть не делть один внутри второго и тд)
+
 struct NavigatiomView_Link: View {
     var body: some View {
         NavigationView {
@@ -17,19 +20,45 @@ struct NavigatiomView_Link: View {
             .navigationTitle("all boxe")
 //            .navigationBarTitleDisplayMode(.automatic)
 //            .navigationBarHidden(true)
+            .navigationBarItems(
+                leading:
+                    
+                    HStack {
+                        Image(systemName: "person.fill")
+                        Image(systemName: "flame.fill")
+                    },
+                trailing:
+                    NavigationLink(destination:
+                    MyOtherScreen(),
+                 label: {
+                    Image(systemName: "gear")
+                })
+                    .accentColor(.red)
+                )
         }
+                
         
     }
 }
 
 struct MyOtherScreen: View {
+    
+    
+    @Environment(\.presentationMode) var presentationMode
+    
     var body: some View {
         ZStack {
             Color.green.ignoresSafeArea()
                 .navigationTitle("veryle")
+                .navigationBarHidden(true)
             
-            NavigationLink("click the") {
-                Text("leayi ne")
+            VStack {
+                Button("back") {
+                    presentationMode.wrappedValue.dismiss()
+                }
+                NavigationLink("click the") {
+                    Text("leayi ne")
+                }
             }
         }
     }
