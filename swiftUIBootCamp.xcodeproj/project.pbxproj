@@ -30,6 +30,7 @@
 		10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */; };
 		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
 		10D88D8C27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D88D8B27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift */; };
+		10D88D8E27CBFCFA003AC3FC /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D88D8D27CBFCFA003AC3FC /* Alerts.swift */; };
 		10DE66B427BF177A004BBB1A /* swiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */; };
 		10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DE66B527BF177A004BBB1A /* ContentView.swift */; };
 		10DE66B827BF177B004BBB1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10DE66B727BF177B004BBB1A /* Assets.xcassets */; };
@@ -67,6 +68,7 @@
 		10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpSheets.FullScreenCovers.swift; sourceTree = "<group>"; };
 		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
 		10D88D8B27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.add.edit.move.del.items.swift; sourceTree = "<group>"; };
+		10D88D8D27CBFCFA003AC3FC /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		10DE66B027BF177A004BBB1A /* swiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DE66B327BF177A004BBB1A /* swiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		10DE66B527BF177A004BBB1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				1025E18D27C72897001AD6EA /* SheetsTransitionPopOver.swift */,
 				109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */,
 				10D88D8B27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift */,
+				10D88D8D27CBFCFA003AC3FC /* Alerts.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 				10FF019627C2EE430065E52C /* Buttons.swift in Sources */,
 				105D4E6827C0604D00658DCD /* Padding.swift in Sources */,
 				10F0688E27C0ADAD00E13FA0 /* Inits.Enums.swift in Sources */,
+				10D88D8E27CBFCFA003AC3FC /* Alerts.swift in Sources */,
 				10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
