@@ -7,6 +7,7 @@ import SwiftUI
 struct iTextField: View {
     
     @State var textField: String = ""
+    @State var dataArray: [String] = []
     
     var body: some View {
         
@@ -22,21 +23,43 @@ struct iTextField: View {
                 
                 
                 Button {
-                    // //
-                    
+                    if textIsAppropriate() {
+                        saveText()
+                    }
+                   
                 } label: {
                     Text("Save".uppercased())
                         .padding()
                         .frame(maxWidth: .infinity)
-                        .background(Color.blue.cornerRadius(10))
+                        .background(textIsAppropriate() ? Color.blue : Color.gray)
+                        .cornerRadius(10)
                         .foregroundColor(.white)
                         .font(.headline)
                 }
-
+                .disabled(!textIsAppropriate())
+                
+                ForEach(dataArray, id: \.self) { data in
+                    Text("data")
+                }
+                
+Spacer()
             }
+            .padding()
             .navigationTitle("text field")
         }
-        
+       
+    }
+    
+    func textIsAppropriate() -> Bool {
+        if textField.count >= 3 {
+            return true
+        }
+        return false
+    }
+    
+    func saveText() {
+        dataArray.append(textField)
+        textField = ""
     }
 }
 
