@@ -15,6 +15,7 @@
 		103354A427BF51A500F902A2 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354A327BF51A500F902A2 /* Gradients.swift */; };
 		103354A627BF5B6200F902A2 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354A527BF5B6200F902A2 /* Icons.swift */; };
 		103354AE27BF67C900F902A2 /* ImageS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103354AD27BF67C900F902A2 /* ImageS.swift */; };
+		1043EE0827CD6AFB00E7A991 /* ActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1043EE0727CD6AFB00E7A991 /* ActionSheets.swift */; };
 		105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6527C0456900658DCD /* VHZ.Stackts.swift */; };
 		105D4E6827C0604D00658DCD /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6727C0604D00658DCD /* Padding.swift */; };
 		106F1F8D27C49AE000A60771 /* TernaryOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106F1F8C27C49AE000A60771 /* TernaryOperators.swift */; };
@@ -53,6 +54,7 @@
 		103354A327BF51A500F902A2 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		103354A527BF5B6200F902A2 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		103354AD27BF67C900F902A2 /* ImageS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageS.swift; sourceTree = "<group>"; };
+		1043EE0727CD6AFB00E7A991 /* ActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheets.swift; sourceTree = "<group>"; };
 		105D4E6527C0456900658DCD /* VHZ.Stackts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VHZ.Stackts.swift; sourceTree = "<group>"; };
 		105D4E6727C0604D00658DCD /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		106F1F8C27C49AE000A60771 /* TernaryOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperators.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */,
 				10D88D8B27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift */,
 				10D88D8D27CBFCFA003AC3FC /* Alerts.swift */,
+				1043EE0727CD6AFB00E7A991 /* ActionSheets.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -231,6 +234,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				100730AC27C2220700AFAC23 /* LazyVHGrid.GridItems.swift in Sources */,
+				1043EE0827CD6AFB00E7A991 /* ActionSheets.swift in Sources */,
 				10F7872127C51C6300D1A6FE /* AnimationCurves.swift in Sources */,
 				102E930327BF7C9100876725 /* Frame.swift in Sources */,
 				105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */,
