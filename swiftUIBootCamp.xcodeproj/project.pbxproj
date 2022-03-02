@@ -18,6 +18,7 @@
 		104183AD27CE79EB004D2DB3 /* iTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104183AC27CE79EA004D2DB3 /* iTextField.swift */; };
 		104183AF27CE93D9004D2DB3 /* iTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104183AE27CE93D9004D2DB3 /* iTextEditor.swift */; };
 		104183B127CEA270004D2DB3 /* Toggle..swift in Sources */ = {isa = PBXBuildFile; fileRef = 104183B027CEA270004D2DB3 /* Toggle..swift */; };
+		104183B327CEA61E004D2DB3 /* Picker.Pickerstyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104183B227CEA61E004D2DB3 /* Picker.Pickerstyle.swift */; };
 		1043EE0827CD6AFB00E7A991 /* ActionSheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1043EE0727CD6AFB00E7A991 /* ActionSheets.swift */; };
 		104A3FD827CE115A00145C3D /* ContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104A3FD727CE115A00145C3D /* ContextMenu.swift */; };
 		105D4E6627C0456900658DCD /* VHZ.Stackts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105D4E6527C0456900658DCD /* VHZ.Stackts.swift */; };
@@ -61,6 +62,7 @@
 		104183AC27CE79EA004D2DB3 /* iTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTextField.swift; sourceTree = "<group>"; };
 		104183AE27CE93D9004D2DB3 /* iTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTextEditor.swift; sourceTree = "<group>"; };
 		104183B027CEA270004D2DB3 /* Toggle..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toggle..swift; sourceTree = "<group>"; };
+		104183B227CEA61E004D2DB3 /* Picker.Pickerstyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker.Pickerstyle.swift; sourceTree = "<group>"; };
 		1043EE0727CD6AFB00E7A991 /* ActionSheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheets.swift; sourceTree = "<group>"; };
 		104A3FD727CE115A00145C3D /* ContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenu.swift; sourceTree = "<group>"; };
 		105D4E6527C0456900658DCD /* VHZ.Stackts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VHZ.Stackts.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				104183AC27CE79EA004D2DB3 /* iTextField.swift */,
 				104183AE27CE93D9004D2DB3 /* iTextEditor.swift */,
 				104183B027CEA270004D2DB3 /* Toggle..swift */,
+				104183B227CEA61E004D2DB3 /* Picker.Pickerstyle.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 				107D842D27C38664008BE955 /* If.Else.swift in Sources */,
 				10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */,
 				103354A627BF5B6200F902A2 /* Icons.swift in Sources */,
+				104183B327CEA61E004D2DB3 /* Picker.Pickerstyle.swift in Sources */,
 				107D842927C35F59008BE955 /* ExctractSubviews.swift in Sources */,
 				10D88D8C27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift in Sources */,
 				103354A227BF3C7200F902A2 /* Colors.swift in Sources */,
