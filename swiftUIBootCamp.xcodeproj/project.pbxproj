@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1005C0BF27D0C2F800124F57 /* TabView.PageTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1005C0BE27D0C2F800124F57 /* TabView.PageTabView.swift */; };
 		100730AC27C2220700AFAC23 /* LazyVHGrid.GridItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */; };
 		100730B027C2363900AFAC23 /* SaveArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100730AF27C2363900AFAC23 /* SaveArea.swift */; };
 		1025E18E27C72897001AD6EA /* SheetsTransitionPopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1025E18D27C72897001AD6EA /* SheetsTransitionPopOver.swift */; };
@@ -55,6 +56,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1005C0BE27D0C2F800124F57 /* TabView.PageTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.PageTabView.swift; sourceTree = "<group>"; };
 		100730AB27C2220700AFAC23 /* LazyVHGrid.GridItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVHGrid.GridItems.swift; sourceTree = "<group>"; };
 		100730AF27C2363900AFAC23 /* SaveArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveArea.swift; sourceTree = "<group>"; };
 		1025E18D27C72897001AD6EA /* SheetsTransitionPopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsTransitionPopOver.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				1075D0AE27CFEA8900025E84 /* Date.Picker.swift */,
 				1075D0B027D0116100025E84 /* Stepper..swift */,
 				1075D0B227D02B9F00025E84 /* Slider..swift */,
+				1005C0BE27D0C2F800124F57 /* TabView.PageTabView.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -275,6 +278,7 @@
 				104183B327CEA61E004D2DB3 /* Picker.Pickerstyle.swift in Sources */,
 				107D842927C35F59008BE955 /* ExctractSubviews.swift in Sources */,
 				10D88D8C27CBC4CF003AC3FC /* List.add.edit.move.del.items.swift in Sources */,
+				1005C0BF27D0C2F800124F57 /* TabView.PageTabView.swift in Sources */,
 				103354A227BF3C7200F902A2 /* Colors.swift in Sources */,
 				10DE66C427BF28A2004BBB1A /* Shapes.swift in Sources */,
 				10DE66B627BF177A004BBB1A /* ContentView.swift in Sources */,
