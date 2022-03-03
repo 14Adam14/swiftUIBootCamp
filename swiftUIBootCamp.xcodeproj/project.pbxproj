@@ -39,6 +39,7 @@
 		109292AF27C9F64C007CD963 /* NavigatiomView.Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */; };
 		1096E29827D122A00045259D /* Adapting.DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1096E29727D122A00045259D /* Adapting.DarkMode.swift */; };
 		1096E29A27D136A40045259D /* add.Markups.Docum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1096E29927D136A40045259D /* add.Markups.Docum.swift */; };
+		1096E29C27D155D60045259D /* onAppear.onDisappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1096E29B27D155D60045259D /* onAppear.onDisappear.swift */; };
 		10BD330D27C5DDCA00B9FFA1 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330C27C5DDCA00B9FFA1 /* Transition.swift */; };
 		10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */; };
 		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
@@ -90,6 +91,7 @@
 		109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatiomView.Link.swift; sourceTree = "<group>"; };
 		1096E29727D122A00045259D /* Adapting.DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adapting.DarkMode.swift; sourceTree = "<group>"; };
 		1096E29927D136A40045259D /* add.Markups.Docum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = add.Markups.Docum.swift; sourceTree = "<group>"; };
+		1096E29B27D155D60045259D /* onAppear.onDisappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onAppear.onDisappear.swift; sourceTree = "<group>"; };
 		10BD330C27C5DDCA00B9FFA1 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpSheets.FullScreenCovers.swift; sourceTree = "<group>"; };
 		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				1005C0BE27D0C2F800124F57 /* TabView.PageTabView.swift */,
 				1096E29727D122A00045259D /* Adapting.DarkMode.swift */,
 				1096E29927D136A40045259D /* add.Markups.Docum.swift */,
+				1096E29B27D155D60045259D /* onAppear.onDisappear.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -298,6 +301,7 @@
 				104183AD27CE79EB004D2DB3 /* iTextField.swift in Sources */,
 				1074EBDA27C20A00000A96D8 /* sScrollVIew.swift in Sources */,
 				1075D0B327D02B9F00025E84 /* Slider..swift in Sources */,
+				1096E29C27D155D60045259D /* onAppear.onDisappear.swift in Sources */,
 				10F0688C27C0A40200E13FA0 /* SpacerS.swift in Sources */,
 				108C9FAB27C317F4001136C2 /* AState.swift in Sources */,
 				10DE66C227BF1BEA004BBB1A /* Text.swift in Sources */,
