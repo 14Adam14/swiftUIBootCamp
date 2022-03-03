@@ -21,7 +21,8 @@ struct TabView_PageTabView: View {
                 Image(systemName: icon)
                     .resizable()
                     .scaledToFit()
-                    .padding(30)
+                    .padding(50)
+                    
             }
         }
         .background(
