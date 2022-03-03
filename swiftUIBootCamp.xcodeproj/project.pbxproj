@@ -38,6 +38,7 @@
 		108C9FAB27C317F4001136C2 /* AState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108C9FAA27C317F4001136C2 /* AState.swift */; };
 		109292AF27C9F64C007CD963 /* NavigatiomView.Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */; };
 		1096E29827D122A00045259D /* Adapting.DarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1096E29727D122A00045259D /* Adapting.DarkMode.swift */; };
+		1096E29A27D136A40045259D /* add.Markups.Docum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1096E29927D136A40045259D /* add.Markups.Docum.swift */; };
 		10BD330D27C5DDCA00B9FFA1 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330C27C5DDCA00B9FFA1 /* Transition.swift */; };
 		10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */; };
 		10C9DEAF27C4A18600482FD2 /* AddingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */; };
@@ -88,6 +89,7 @@
 		108C9FAA27C317F4001136C2 /* AState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AState.swift; sourceTree = "<group>"; };
 		109292AE27C9F64C007CD963 /* NavigatiomView.Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatiomView.Link.swift; sourceTree = "<group>"; };
 		1096E29727D122A00045259D /* Adapting.DarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adapting.DarkMode.swift; sourceTree = "<group>"; };
+		1096E29927D136A40045259D /* add.Markups.Docum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = add.Markups.Docum.swift; sourceTree = "<group>"; };
 		10BD330C27C5DDCA00B9FFA1 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		10BD330E27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = popUpSheets.FullScreenCovers.swift; sourceTree = "<group>"; };
 		10C9DEAE27C4A18600482FD2 /* AddingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingAnimations.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				1075D0B227D02B9F00025E84 /* Slider..swift */,
 				1005C0BE27D0C2F800124F57 /* TabView.PageTabView.swift */,
 				1096E29727D122A00045259D /* Adapting.DarkMode.swift */,
+				1096E29927D136A40045259D /* add.Markups.Docum.swift */,
 				10DE66B727BF177B004BBB1A /* Assets.xcassets */,
 				10DE66B927BF177B004BBB1A /* Preview Content */,
 			);
@@ -274,6 +277,7 @@
 				109292AF27C9F64C007CD963 /* NavigatiomView.Link.swift in Sources */,
 				107D842727C34C55008BE955 /* ExtractFuncSubv.swift in Sources */,
 				100730B027C2363900AFAC23 /* SaveArea.swift in Sources */,
+				1096E29A27D136A40045259D /* add.Markups.Docum.swift in Sources */,
 				10E5E4E027C01CC20053DC26 /* Background.Overlay.swift in Sources */,
 				107D842D27C38664008BE955 /* If.Else.swift in Sources */,
 				10BD330F27C5F6CD00B9FFA1 /* popUpSheets.FullScreenCovers.swift in Sources */,
